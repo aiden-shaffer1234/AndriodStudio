@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pizza Party</string>
+    <string name="number_of_people">Number of people?</string>
+    <string name="how_hungry">How hungry?</string>
+    <string name="light">Light</string>
+    <string name="medium">Medium</string>
+    <string name="ravenous">Ravenous</string>
+    <string name="total_pizzas">Total pizzas: ?</string>
+    <string name="calculate">Calculate</string>
+    <string name="total_pizzas_num">Total pizzas: %d</string>
+    <string-array name="sizes_array">
+        <item>Light</item>
+        <item>Medium</item>
+        <item>Ravenous</item>
+    </string-array>
+</resources>
